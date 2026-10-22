@@ -1,0 +1,231 @@
+{
+  "author_emails": [
+    "amreel.rashid@tm.com.my",
+    "82134042+amreel1904@users.noreply.github.com",
+    "amreelnuqman@Amreels-MacBook-Air.local"
+  ],
+  "notion": {
+    "database_url": "https://www.notion.so/d8bc1a2067b84e008e7ad45b2071b0b2",
+    "data_source_id": "14634630-b5c7-49ad-9629-6c03a52becf6"
+  },
+  "projects": [
+    {
+      "name": "Partnership",
+      "repos": [
+        {
+          "role": "fe",
+          "path": "~/partnership-fe"
+        },
+        {
+          "role": "be",
+          "path": "~/partnership-be"
+        }
+      ]
+    },
+    {
+      "name": "GTM",
+      "repos": [
+        {
+          "role": "fe",
+          "path": "~/gtm-fe"
+        },
+        {
+          "role": "be",
+          "path": "~/gtm-be"
+        }
+      ]
+    },
+    {
+      "name": "Lab Booking",
+      "repos": [
+        {
+          "role": "fe",
+          "path": "~/lab-booking/lab-booking-fe"
+        },
+        {
+          "role": "be",
+          "path": "~/lab-booking/lab-booking-be"
+        }
+      ]
+    },
+    {
+      "name": "LMS",
+      "repos": [
+        {
+          "role": "mobile",
+          "path": "~/lms/lms-mobileApp"
+        },
+        {
+          "role": "be",
+          "path": "~/lms/lms-backend"
+        }
+      ]
+    },
+    {
+      "name": "Tracey",
+      "repos": [
+        {
+          "role": "fe",
+          "path": "~/Documents/app/tracey-frontend"
+        },
+        {
+          "role": "be",
+          "path": "~/Documents/app/tracey-backend"
+        }
+      ]
+    },
+    {
+      "name": "cinema-booking-api",
+      "repos": [
+        {
+          "role": "app",
+          "path": "~/cinema-booking-api"
+        }
+      ]
+    },
+    {
+      "name": "ems",
+      "repos": [
+        {
+          "role": "app",
+          "path": "~/ems"
+        }
+      ]
+    },
+    {
+      "name": "tm-branding-dev",
+      "repos": [
+        {
+          "role": "app",
+          "path": "~/tm-branding-dev"
+        }
+      ]
+    },
+    {
+      "name": "anchor-window",
+      "repos": [
+        {
+          "role": "app",
+          "path": "~/Projects/anchor-window"
+        }
+      ]
+    },
+    {
+      "name": "ifast-1",
+      "repos": [
+        {
+          "role": "app",
+          "path": "~/ifast-1"
+        }
+      ]
+    },
+    {
+      "name": "iorder",
+      "repos": [
+        {
+          "role": "app",
+          "path": "~/iorder"
+        }
+      ]
+    },
+    {
+      "name": "myds",
+      "repos": [
+        {
+          "role": "app",
+          "path": "~/myds"
+        }
+      ]
+    },
+    {
+      "name": "ianalyse-1",
+      "repos": [
+        {
+          "role": "app",
+          "path": "~/ianalyse-1"
+        }
+      ]
+    },
+    {
+      "name": "kad-video",
+      "repos": [
+        {
+          "role": "app",
+          "path": "~/kad-video"
+        }
+      ]
+    },
+    {
+      "name": "kad-kahwin",
+      "repos": [
+        {
+          "role": "app",
+          "path": "~/kad-kahwin"
+        }
+      ]
+    },
+    {
+      "name": "glass-tv",
+      "repos": [
+        {
+          "role": "app",
+          "path": "~/glass-tv"
+        }
+      ]
+    },
+    {
+      "name": "jprd_backend",
+      "repos": [
+        {
+          "role": "app",
+          "path": "~/jprd_backend"
+        }
+      ]
+    },
+    {
+      "name": "portfolio",
+      "repos": [
+        {
+          "role": "app",
+          "path": "~/Desktop/app/portfolio"
+        }
+      ]
+    },
+    {
+      "name": "rentapp",
+      "repos": [
+        {
+          "role": "app",
+          "path": "~/Desktop/app/rentapp"
+        }
+      ]
+    },
+    {
+      "name": "aora",
+      "repos": [
+        {
+          "role": "app",
+          "path": "~/Desktop/app/react-native-app/aora"
+        }
+      ]
+    },
+    {
+      "name": "firstApp",
+      "repos": [
+        {
+          "role": "app",
+          "path": "~/Documents/firstApp"
+        }
+      ]
+    },
+    {
+      "name": "claude-usage",
+      "repos": [
+        {
+          "role": "app",
+          "path": "~/Applications/claude-usage"
+        }
+      ]
+    }
+  ]
+}
